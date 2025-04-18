@@ -55,7 +55,7 @@ This project provides a collection of fundamental data structures implemented in
    cd data-structures
    ```
 
-````
+
 2. Compile the code:
     ```bash
     make
@@ -64,7 +64,7 @@ This project provides a collection of fundamental data structures implemented in
     ```bash
     ./tests/run_tests
     ```
-````
+
 
 ## Testing
 
